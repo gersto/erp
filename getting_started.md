@@ -138,3 +138,12 @@ Der heutige Umfang der Systeme und die daraus resultierende Komplexität ist Seg
 zugleich.
 
 ![erp24](pictures/erp24.JPG)
+
+
+## Links
+- [https://www.youtube.com/watch?v=sG5Ovxu71cU](https://www.youtube.com/watch?v=sG5Ovxu71cU)
+- [https://www.youtube.com/watch?v=mc8A4sGnYBY](https://www.youtube.com/watch?v=mc8A4sGnYBY)
+- [https://www.youtube.com/watch?v=UC1czfAo_NM](https://www.youtube.com/watch?v=UC1czfAo_NM)
+- [https://www.udemy.com/course/erp-einfuehrung-erfolgreich-diese-basics-musst-du-kennen/](https://www.udemy.com/course/erp-einfuehrung-erfolgreich-diese-basics-musst-du-kennen/)
+- [https://www.sap.com/austria/products/erp/what-is-erp.html](https://www.sap.com/austria/products/erp/what-is-erp.html)
+- [https://www.youtube.com/watch?v=ZuDOIUQYePI](https://www.youtube.com/watch?v=ZuDOIUQYePI)
