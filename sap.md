@@ -2,6 +2,8 @@
 
 ## ERP-System
 
+[https://www.youtube.com/watch?v=ZuDOIUQYePI](https://www.youtube.com/watch?v=ZuDOIUQYePI)
+
 ERP steht für Enterprise Resource Planning --> alle Resourcen eines Unternehmens ganzheitlich zu verwalten
 bzw. zu planen.
 
@@ -40,5 +42,45 @@ So gibt es jede Menge weiterer Transaktionen
 
 ![sap06.JPG](pictures/sap06.JPG)
 
+Viele stören sich in SAP an diesen komischen scheinbar willkürlichen Transaktionsnamen/kürzel (z.B. MM01, ME21N, ...).
+Diese sind auch ziemlich ungeeignet um die Menge der Transaktionen zu überblicken. In SAP bibt es dafür eine Baumstruktur
+die alle Transaktionen systematisch gliedert. Versteht man diesen Baum, so versteht man SAP
+
+![sap07.JPG](pictures/sap07.JPG)
+
+z.B. Pflege von Materialdaten
+
+![sap08.JPG](pictures/sap08.JPG)
+![sap09.JPG](pictures/sap09.JPG)
+
+z.B. Anzeigen des Materials
+
+![sap10.JPG](pictures/sap10.JPG)
+![sap11.JPG](pictures/sap11.JPG)
+
+z.B. einen Kugelschreiber mit der Materialnummer 1172 anzeigen
+
+![sap12.JPG](pictures/sap12.JPG)
+
+Man muss natürlich diese Materialnummer nicht auswendig wissen. SAP hat immer ein ausgeklügeltes Suchsystem eingebaut
+
+![sap13.JPG](pictures/sap13.JPG)
+
+Nach der Auswahl des Materials bekommt die unterschiedlichen Sichten der Stammdaten
+
+![sap14.JPG](pictures/sap14.JPG)
+
+Ein Eintrag in den Stammdaten heißt noch nicht dass dieses Material im Unternehmen vorhanden ist. Dies ist die Aufgabe
+der Bewegungsdaten 
 
 ## Stamm-/Bewegungsdaten
+
+Stammdaten:
+
+![sap15.JPG](pictures/sap15.JPG)
+
+Bewegungsdaten:<br>
+Die auf den Stammdaten basierenden Daten wie Bestellungen, Fertigungsaufträge, Lagerbestände, Auslieferung, ...
+nennt man Bewegungsdaten. Diese Daten beleben also das Unternehmen
+
+![sap16.JPG](pictures/sap16.JPG)
